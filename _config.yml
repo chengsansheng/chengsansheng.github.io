@@ -1,5 +1,5 @@
 # Site settings
-title: Sun Moon You 
+title: Cheng sansheng 
 SEOTitle: 三省的博客 | 吾日三省吾身
 header-img: img/post-bg-desk.jpg
 email: leoccp12@163.com
@@ -7,7 +7,6 @@ description: "花有重开日，人无再少年。"
 keyword: "SS, SS Blog, 三省的博客, chengsansheng, 程三省"
 url: "http://chengsansheng.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
